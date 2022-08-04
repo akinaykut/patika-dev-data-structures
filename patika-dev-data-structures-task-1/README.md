@@ -2,8 +2,6 @@
 
 My solution in Task-1. There are 2 different solutions. One of them uses JavaScript. The other one was written step by step to this file by me.
 
----
-
 ## 1) Insertion sort of [22, 27, 16, 2, 18, 6]
 
 ```
@@ -26,15 +24,11 @@ My solution in Task-1. There are 2 different solutions. One of them uses JavaScr
     Result => [2, 6, 16, 18, 22, 27]
 ```
 
----
-
 ## 2) Big-O
 
 ```
     O(n^2)
 ```
-
----
 
 ## 3) Time Complexity
 
@@ -45,15 +39,11 @@ My solution in Task-1. There are 2 different solutions. One of them uses JavaScr
 
 ```
 
----
-
 ## 4) After sorting
 
 ```
    O(n)
 ```
-
----
 
 ## 5) Insertion sort of [7,3,5,8,2,9,4,15,6]
 
