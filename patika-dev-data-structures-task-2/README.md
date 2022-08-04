@@ -28,6 +28,10 @@ My solution in task-2.
 
 ```
 
+## 2) Big-O
+
+    O(nlogn)
+
 ---
 
 [Patikadev.com](https://patikadev.com)

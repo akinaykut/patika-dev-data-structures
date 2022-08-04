@@ -10,6 +10,10 @@ My solutions of patika-dev-data-structures-tasks.
 
 ![Merge Sort](./images/task-2.PNG)
 
+## 3) Binary Search
+
+![Binary Search](./images/task-3.PNG)
+
 ---
 
 [Patikadev](https://patikadev.com)
